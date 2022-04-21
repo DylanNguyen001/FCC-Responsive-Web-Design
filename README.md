@@ -1,2 +1,3 @@
 # FCC-Responsive-Web-Design
-Repository for FreeCodeCamp's Responsive Web Design Certificate Course
+This is a repository for FreeCodeCamp's Responsive Web Design Certificate Course
+Link to course: https://www.freecodecamp.org/learn/responsive-web-design/
